@@ -1,10 +1,69 @@
-- 👋 Hi, I’m @ItsPinion
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Pinion! 👋
 
-<!---
-ItsPinion/ItsPinion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate programmer with a love for diving deep into the world of coding. I'm currently focused on honing my skills in JavaScript and exploring the fascinating realm of web development. If you share the same interests or just want to connect, feel free to reach out to me. Let's create some amazing projects together!
+
+## About Me 👀
+
+I've always had a passion for technology and how it can empower people and businesses alike. Programming allows me to turn my ideas into reality and build solutions that make a difference. I'm an avid learner and always eager to explore new technologies and frameworks to expand my skill set.
+
+## Contact Me 📫
+
+The best way to get in touch with me is through Discord. You can find me as `itspinion`. Feel free to drop me a message, whether it's for a collaboration or just to say hello. I'm looking forward to connecting with you!
+
+### Connect with me:
+
+[<img align="left" alt="YourWebsite.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />][website]
+
+[<img align="left" alt="Twitter URL" width="26px" src="https://svgshare.com/i/v_8.svg"  />][discord]
+
+[<img align="left" alt="Twitter URL" width="26px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg"  />][twitter]
+
+[<img align="left" alt="LinkedIn URL" width="26px" src="https://svgshare.com/i/uof.svg"  />][linkedin]
+
+[<img align="left" alt="Instagram URL" width="26px" src="https://svgshare.com/i/xoe.svg"  />][instagram]
+
+<br />
+
+## Languages and Tools 🛠️
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />][HTML5]
+
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][CSS3]
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][JavaScript]
+
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />][Python]
+
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />][Git]
+
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />][GitHub]
+
+<br />
+
+## Let's Collaborate! 💞️
+
+If you're into web development too or have any exciting projects in mind, I'd love to collaborate with you. Two minds are better than one, and together we can build something incredible! Don't hesitate to reach out, and let's discuss how we can make a positive impact through coding.
+
+## GitHub Status
+
+<details>
+  <summary><strong>Expand:</strong></summary>
+
+  <img align="left" alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ItsPinion&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://ItsPinion.github.io
+[twitter]: https://twitter.com/ItsPinion
+[linkedin]: https://www.linkedin.com/in/itspinion/
+[instagram]: https://www.instagram.com/prottoy.raha.r/
+[discord]: https://discord.gg/dtWrRVQ4gq
+[vscode]: #
+[HTML5]: #
+[CSS3]: #
+[JavaScript]: #
+[Python]: #
+[Git]: #
+[GitHub]: #
