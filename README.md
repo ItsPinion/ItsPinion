@@ -34,6 +34,8 @@ The best way to get in touch with me is through Discord. You can find me as `its
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][JavaScript]
 
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />][TypeScript]
+
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />][Python]
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />][Git]
@@ -60,10 +62,11 @@ If you're into web development too or have any exciting projects in mind, I'd lo
 [linkedin]: https://www.linkedin.com/in/itspinion/
 [instagram]: https://www.instagram.com/prottoy.raha.r/
 [discord]: https://discord.gg/dtWrRVQ4gq
-[vscode]: #
-[HTML5]: #
-[CSS3]: #
-[JavaScript]: #
-[Python]: #
-[Git]: #
-[GitHub]: #
+[vscode]: https://code.visualstudio.com
+[HTML5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[CSS3]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[Python]: https://docs.python.org/
+[Git]: https://git-scm.com
+[GitHub]: https://github.com
+[TypeScript]: https://www.typescriptlang.org
