@@ -1,6 +1,6 @@
 # Hi there, I'm Pinion! 👋
 
-Welcome to my GitHub profile! I'm a passionate programmer with a love for diving deep into the world of coding. I'm currently focused on honing my skills in JavaScript and exploring the fascinating realm of web development. If you share the same interests or just want to connect, feel free to reach out to me. Let's create some amazing projects together!
+Welcome to my GitHub profile! I'm a passionate programmer with a love for diving deep into the world of coding. I'm currently focused on honing my skills in JavaScript and exploring the fascinating realm of web development <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/browser.svg"/>. If you share the same interests or just want to connect, feel free to reach out to me. Let's create some amazing projects together!
 
 ## About Me 👀
 
