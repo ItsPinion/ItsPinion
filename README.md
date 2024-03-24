@@ -42,6 +42,15 @@ The best way to get in touch with me is through Discord. You can find me as `its
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />][GitHub]
 
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />][React]
+
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />][NextJS]
+
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][NodeJS]
+
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />][Tailwind]
+
+
 <br />
 
 ## Let's Collaborate! 💞️
@@ -70,3 +79,7 @@ If you're into web development too or have any exciting projects in mind, I'd lo
 [Git]: https://git-scm.com
 [GitHub]: https://github.com
 [TypeScript]: https://www.typescriptlang.org
+[React]: https://react.dev/
+[NextJS]: https://nextjs.org/
+[NodeJS]: https://nodejs.org/en
+[Tailwind]: https://tailwindcss.com/
