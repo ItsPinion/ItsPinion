@@ -16,7 +16,7 @@ The best way to get in touch with me is through Discord. You can find me as `its
 
 [<img align="left" alt="Twitter URL" width="26px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg"  />][twitter]
 
-[<img align="left" alt="LinkedIn URL" width="26px" src="https://www.svgrepo.com/show/108614/linkedin.svg"  />][linkedin]
+[<img align="left" alt="LinkedIn URL" width="26px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"  />][linkedin]
 
 [<img align="left" alt="Instagram URL" width="26px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"  />][instagram]
 
