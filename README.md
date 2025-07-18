@@ -48,8 +48,6 @@ The best way to get in touch with me is through Discord. You can find me as `its
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bun/tailwind.png" />][Tailwind]
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bun/bun.png" />][bun]
-
 <br />
 
 ## Let's Collaborate! 💞️
