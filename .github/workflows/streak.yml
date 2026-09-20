@@ -6,23 +6,27 @@ on:
 
   workflow_dispatch:
 
+  push:
+    paths:
+      - ".github/workflows/streak.yml"
+
 permissions:
   contents: write
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v5
 
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
+        uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true
+          options: user=${{ github.repository_owner }}&theme=dark&disable_animations=true
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit streak stats
         run: |
@@ -31,6 +35,6 @@ jobs:
 
           git add profile/streak.svg
 
-          git diff --cached --quiet || git commit -m "chore: update streak stats"
+          git diff --cached --quiet || git commit -m "chore: update GitHub streak"
 
           git push
