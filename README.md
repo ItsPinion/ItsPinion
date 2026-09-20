@@ -1,81 +1,189 @@
-# Hi there, I'm Pinion! 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate programmer with a love for diving deep into the world of coding. I'm currently focused on honing my skills in JavaScript and exploring the fascinating realm of web development <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/browser.svg"/>. If you share the same interests or just want to connect, feel free to reach out to me. Let's create some amazing projects together!
+# Hi there, I'm Pinion (Prottoy Raha) 👋
+
+### Computer Science & Systems Engineering Student · Developer · Builder
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+things+to+understand+how+they+work;Full-Stack+%7C+Backend+%7C+AI%2FML;Software+%7C+Systems+%7C+Security;Turning+ideas+into+working+systems"
+    alt="Typing SVG"
+  />
+</a>
+
+</div>
+
+---
 
 ## About Me 👀
 
-I've always had a passion for technology and how it can empower people and businesses alike. Programming allows me to turn my ideas into reality and build solutions that make a difference. I'm an avid learner and always eager to explore new technologies and frameworks to expand my skill set.
+I'm **Prottoy Raha**, but I usually go by **Pinion** online (`ItsPinion`).
 
-## Contact Me 📫
+I'm a **Computer Science & Systems Engineering student at Andhra University** who spends a probably unreasonable amount of time building things just to figure out how they work.
 
-The best way to get in touch with me is through Discord. You can find me as `itspinion`. Feel free to drop me a message, whether it's for a collaboration or just to say hello. I'm looking forward to connecting with you!
+I started out mostly interested in writing code that *works*. These days, I'm much more interested in understanding what happens underneath it — how systems communicate, how software is structured, where things break, and why they break in the first place.
 
-### Connect with me:
+Most of what I learn comes from building. I'll get an idea, start making it, run into something I don't understand, spend way too long debugging it, and eventually come out knowing something I didn't know before.
 
-[<img align="left" alt="Twitter URL" width="26px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"  />][discord]
+I'm usually somewhere around:
 
-[<img align="left" alt="Twitter URL" width="26px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg"  />][twitter]
+`Software Engineering` · `Backend` · `AI/ML` · `Systems` · `Security`
 
-[<img align="left" alt="LinkedIn URL" width="26px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"  />][linkedin]
+I like working with **TypeScript, JavaScript, Python, Java, C/C++**, and whatever else a project happens to require. I'm also particularly interested in **Linux, Docker, databases, APIs, system design, AI agents, computer vision, and developer tooling**.
 
-[<img align="left" alt="Instagram URL" width="26px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"  />][instagram]
+I don't really enjoy learning something just to memorize it. If I can build it, break it, debug it, and rebuild it, I'll probably understand it a lot better.
 
-<br />
+Outside of the usual coding stuff, I enjoy **hackathons, simulations, experimenting with weird ideas, and making small tools that solve problems I actually have**.
 
-## Languages and Tools 🛠️
+Still learning. Still breaking things. Still building.
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+---
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />][HTML5]
+## Languages & Tools 🛠️
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][CSS3]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,r,html,css,postgres,sqlite&perline=11" alt="Languages" />
+  </a>
+</p>
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][JavaScript]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,hono,fastapi,flask,vite,tailwind,mui,wordpress&perline=11" alt="Frameworks and Libraries" />
+  </a>
+</p>
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />][TypeScript]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,turborepo,bun,gcp,vscode,linux,postman,pycharm&perline=10" alt="Tools and Infrastructure" />
+  </a>
+</p>
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />][React]
+---
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][NodeJS]
+## GitHub Activity 📊
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />][Tailwind]
+<p align="center">
+  <a href="https://github.com/ItsPinion">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=ItsPinion&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+      alt="Pinion's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/ItsPinion">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsPinion&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
+      alt="Pinion's Top Languages"
+    />
+  </a>
+</p>
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />][NextJS]
+---
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />][Git]
+## Contribution Streak 🔥
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />][GitHub]
+<p align="center">
+  <img
+    src="./profile/streak.svg"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />][Python]
+---
 
-<br />
+## Contribution Graph 🐍
 
-## Let's Collaborate! 💞️
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./github-snake.svg"
+    />
+    <img
+      src="./github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
 
-If you're into web development too or have any exciting projects in mind, I'd love to collaborate with you. Two minds are better than one, and together we can build something incredible! Don't hesitate to reach out, and let's discuss how we can make a positive impact through coding.
+---
 
-## GitHub Status
+## Random Developer Wisdom 💭
 
-<details>
-  <summary><strong>Expand:</strong></summary>
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"
+      alt="Random Developer Quote"
+    />
+  </a>
+</p>
 
-  <img align="left" alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ItsPinion&show_icons=true&hide_border=true" />
+---
 
-</details>
+## Connect 🌐
 
-[twitter]: https://twitter.com/ItsPinion
-[linkedin]: https://www.linkedin.com/in/itspinion/
-[instagram]: https://www.instagram.com/prottoy.raha.r/
-[discord]: https://discord.gg/dtWrRVQ4gq
-[vscode]: https://code.visualstudio.com
-[HTML5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
-[CSS3]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[Python]: https://docs.python.org/
-[Git]: https://git-scm.com
-[GitHub]: https://github.com
-[TypeScript]: https://www.typescriptlang.org
-[React]: https://react.dev/
-[NextJS]: https://nextjs.org/
-[NodeJS]: https://nodejs.org/en
-[Tailwind]: https://tailwindcss.com/
+<p align="center">
+  <a href="https://github.com/ItsPinion">
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      width="42"
+      alt="GitHub"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/itspinion/">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="42"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/dtWrRVQ4gq">
+    <img
+      src="https://skillicons.dev/icons?i=discord"
+      width="42"
+      alt="Discord"
+    />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/ItsPinion">
+    <img
+      src="https://skillicons.dev/icons?i=twitter"
+      width="42"
+      alt="X / Twitter"
+    />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/prottoy.raha.r/">
+    <img
+      src="https://skillicons.dev/icons?i=instagram"
+      width="42"
+      alt="Instagram"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="./Prottoy_Raha_Resume.pdf">
+    <img
+      src="https://img.shields.io/badge/Resume-View%20Resume-58A6FF?style=for-the-badge&logo=readthedocs&logoColor=white"
+      alt="View Resume"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Build it. Break it. Understand it.
+
+</div>
