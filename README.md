@@ -1,9 +1,5 @@
 <div align="center">
 
-# Hi there, I'm Pinion (Prottoy Raha) 👋
-
-### Computer Science & Systems Engineering Student · Developer · Builder
-
 <a href="https://git.io/typing-svg">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+things+to+understand+how+they+work;Full-Stack+%7C+Backend+%7C+AI%2FML;Software+%7C+Systems+%7C+Security;Turning+ideas+into+working+systems"
@@ -14,7 +10,6 @@
 </div>
 <div align="center">
   
-# About Me 👀
 
   <img
     src="website-demo-image/image.png"
